@@ -3,6 +3,9 @@
 ## Overview
 In this project, I analyzed a chess dataset that I found on Kaggle. This was my first project on Kaggle and I used this dataset as a way to test my skills in conducting data analysis, visualization, and even a small attempt at a classification model as well. Please feel free to look at the code, get inspired by it, criticize it, and suggest more things that I can do in terms of analysis.
 
+### Dataset Overview
+The dataset provides information on thousands of chess games, each detailed with the openings played by both white and black. Other information include, the winner of the games, whether it was a rated match, the ratings of the players, and other relevant information.
+
 ### Links
 * Dataset: [Online Chess Games](https://www.kaggle.com/datasets/ulrikthygepedersen/online-chess-games)
 * This notebook on Kaggle: [Chess Data Analysis](https://www.kaggle.com/code/anaqiamir/chess-data-analysis#Conclusion)
