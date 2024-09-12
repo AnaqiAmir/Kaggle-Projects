@@ -3,6 +3,8 @@
 ## Overview
 The Data Science Salaries dataset on Kaggle invites participants to analyze the global data science salaries and create a model to predict these salaries. The dataset includes information such as the employees experience level, employment type, job title, and of course the salaries of these employeed as well.
 
+Bonus: Be sure to check out the Tableau Dashboard that I created on this dataset (here)[https://public.tableau.com/app/profile/anaqi.amir/viz/DataScienceSalaries_17259070514550/Dashboard1)
+
 ### Links
 * Dataset: [Data Science Salaries 2023](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023)
 * This notebook on Kaggle: [Data Science Salaries 2023](https://www.kaggle.com/code/anaqiamir/data-science-salaries-2023)
